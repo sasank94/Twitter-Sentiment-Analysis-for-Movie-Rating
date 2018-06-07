@@ -1,1 +1,1 @@
-# Twitter-Sentiment-Analysis-for-Movie-Rating
+Movie ratings of different movies by analysing the tweets from Twitter.
